@@ -3,7 +3,8 @@
 // @version     1.1.2
 // @include     https://www.yuketang.cn/v2/web/*
 // @include     https://changjiang.yuketang.cn/v2/web/*
-// @downloadURL https://github.com/CUC-Life-Hack/rainclass-hack/raw/master/dist/main.user.js
+// @include     https://yjsfafu.yuketang.cn/pro/*
+// @downloadURL https://github.com/2h0000/rainclass-hack/raw/master/dist/main.user.js
 // @grant       unsafeWindow
 // ==/UserScript==
 
