@@ -5,5 +5,6 @@ export default {
 	include: [
 		'https://www.yuketang.cn/v2/web/*',
 		'https://changjiang.yuketang.cn/v2/web/*',
+		'https://yjsfafu.yuketang.cn/pro/*',
 	],
 };
